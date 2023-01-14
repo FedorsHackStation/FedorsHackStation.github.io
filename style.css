@@ -8,3 +8,7 @@ h1 {
  border-radius: 20px;
  text-align: center;
 }
+div {
+ border: solid 3px;
+ border-radius: 20px;
+}
