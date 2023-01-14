@@ -3,20 +3,17 @@ body {
  background-color: black;
  font-family: Courier New;
 }
-
 h1 {
  border: solid 3px;
  border-radius: 20px;
  text-align: center;
 }
-
 div {
  border: solid 3px;
  border-radius: 20px;
  padding-left: 20px;
  padding-right: 20px;
 }
-
 button {
  color: red;
  background-color: black;
