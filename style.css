@@ -14,3 +14,7 @@ div {
  padding-left: 20px;
  padding-right: 20px;
 }
+button {
+ color: red;
+ background-color: black;
+}
