@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+import os
+os.system("pip install pyshorteners")
 import pyshorteners
 import platform
-import os
 
 opsys = platform.platform()
 cls = "clear"
