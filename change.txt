@@ -1,0 +1,14 @@
+All demonstrations and scripts on this website are for educational purposes only.
+I do not promote or encourage any illegal activities.
+
+Variables are used to store values.
+To create a variable the variable must be named.
+Because the names must not contain spaces, these are replaced by snake-cases.
+With the '=' you can assign a text value to the variable.
+Text values ​​are surrounded by double quotes.
+
+A simple tic tac toe game written in python (you have to install python to play it).
+This single player version version is on mac, windows and linux playable in the shell.
+
+A simple Link-shorter written in python (you have to install python to use it).
+This Link-shorter work in the shell and use Tiny-Url to short the link.
